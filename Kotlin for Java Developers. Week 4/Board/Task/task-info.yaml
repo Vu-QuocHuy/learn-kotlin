@@ -1,0 +1,45 @@
+type: edu
+files:
+  - name: src/board/Board.kt
+    visible: true
+    learner_created: false
+  - name: src/board/BoardImpl.kt
+    visible: true
+    placeholders:
+      - offset: 1887
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 90
+        initialized_from_dependency: false
+        selected: true
+        status: Failed
+      - offset: 1946
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 149
+        initialized_from_dependency: false
+        selected: true
+        status: Failed
+    learner_created: false
+  - name: test/board/TestGameBoard.kt
+    visible: true
+    learner_created: false
+  - name: test/board/TestSquareBoard.kt
+    visible: true
+    learner_created: false
+  - name: partId
+    visible: false
+    learner_created: false
+  - name: assignmentKey
+    visible: false
+    learner_created: false
+feedback_link: https://www.coursera.org/learn/kotlin-for-java-developers/programming/7fkLn/board/discussions
+status: Failed
+feedback:
+  message: java.lang.AssertionError
+  time: "Tue, 04 Mar 2025 10:43:36 UTC"
+record: -1
